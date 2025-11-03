@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dodi-adem/Competitive_Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dodi-adem/Competitive_Programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/dodi-adem/Competitive_Programming/tree/master/1813-maximum-erasure-value) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dodi-adem/Competitive_Programming/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/0567-permutation-in-string) |
 | [1813-maximum-erasure-value](https://github.com/dodi-adem/Competitive_Programming/tree/master/1813-maximum-erasure-value) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dodi-adem/Competitive_Programming/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dodi-adem/Competitive_Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/dodi-adem/Competitive_Programming/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dodi-adem/Competitive_Programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dodi-adem/Competitive_Programming/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Binary Search
 |  |
 | ------- |
