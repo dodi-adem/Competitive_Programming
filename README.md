@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dodi-adem/Competitive_Programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/dodi-adem/Competitive_Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/dodi-adem/Competitive_Programming/tree/master/1813-maximum-erasure-value) |
+| [2102-find-the-middle-index-in-array](https://github.com/dodi-adem/Competitive_Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dodi-adem/Competitive_Programming/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/dodi-adem/Competitive_Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dodi-adem/Competitive_Programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/dodi-adem/Competitive_Programming/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/dodi-adem/Competitive_Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dodi-adem/Competitive_Programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Two Pointers
 |  |
