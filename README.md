@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/dodi-adem/Competitive_Programming/tree/master/1813-maximum-erasure-value) |
 | [2102-find-the-middle-index-in-array](https://github.com/dodi-adem/Competitive_Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dodi-adem/Competitive_Programming/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2465-shifting-letters-ii](https://github.com/dodi-adem/Competitive_Programming/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dodi-adem/Competitive_Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dodi-adem/Competitive_Programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2465-shifting-letters-ii](https://github.com/dodi-adem/Competitive_Programming/tree/master/2465-shifting-letters-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/dodi-adem/Competitive_Programming/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/dodi-adem/Competitive_Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dodi-adem/Competitive_Programming/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2465-shifting-letters-ii](https://github.com/dodi-adem/Competitive_Programming/tree/master/2465-shifting-letters-ii) |
 ## Two Pointers
 |  |
 | ------- |
