@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dodi-adem/Competitive_Programming/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dodi-adem/Competitive_Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/dodi-adem/Competitive_Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dodi-adem/Competitive_Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dodi-adem/Competitive_Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0878-shifting-letters](https://github.com/dodi-adem/Competitive_Programming/tree/master/0878-shifting-letters) |
 | [0940-fruit-into-baskets](https://github.com/dodi-adem/Competitive_Programming/tree/master/0940-fruit-into-baskets) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dodi-adem/Competitive_Programming/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/dodi-adem/Competitive_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/dodi-adem/Competitive_Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/dodi-adem/Competitive_Programming/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dodi-adem/Competitive_Programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dodi-adem/Competitive_Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dodi-adem/Competitive_Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/dodi-adem/Competitive_Programming/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dodi-adem/Competitive_Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dodi-adem/Competitive_Programming/tree/master/1370-count-number-of-nice-subarrays) |
