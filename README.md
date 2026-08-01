@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dodi-adem/Competitive_Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/dodi-adem/Competitive_Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/dodi-adem/Competitive_Programming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dodi-adem/Competitive_Programming/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dodi-adem/Competitive_Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dodi-adem/Competitive_Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0878-shifting-letters](https://github.com/dodi-adem/Competitive_Programming/tree/master/0878-shifting-letters) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dodi-adem/Competitive_Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dodi-adem/Competitive_Programming/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/dodi-adem/Competitive_Programming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dodi-adem/Competitive_Programming/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dodi-adem/Competitive_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/dodi-adem/Competitive_Programming/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dodi-adem/Competitive_Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dodi-adem/Competitive_Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/dodi-adem/Competitive_Programming/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dodi-adem/Competitive_Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dodi-adem/Competitive_Programming/tree/master/0567-permutation-in-string) |
