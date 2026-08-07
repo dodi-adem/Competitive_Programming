@@ -7,7 +7,6 @@ class Solution:
 
         total = 0
         for i in range(len(s)):
-            # If next value is larger, subtract current
             if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
                 total -= values[s[i]]
             else:
